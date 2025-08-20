@@ -1,0 +1,202 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Polish (Poland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PLK)
+LANGUAGE LANG_POLISH, SUBLANG_DEFAULT
+#pragma code_page(1250)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+1                       BITMAP                  "Res\\bmp1.bmp"
+
+10                      BITMAP                  "Res\\bmp10.bmp"
+
+11                      BITMAP                  "Res\\bmp11.bmp"
+
+12                      BITMAP                  "Res\\bmp12.bmp"
+
+13                      BITMAP                  "Res\\bmp13.bmp"
+
+14                      BITMAP                  "Res\\bmp14.bmp"
+
+15                      BITMAP                  "Res\\bmp15.bmp"
+
+16                      BITMAP                  "Res\\bmp16.bmp"
+
+17                      BITMAP                  "Res\\bmp17.bmp"
+
+18                      BITMAP                  "Res\\bmp18.bmp"
+
+19                      BITMAP                  "Res\\bmp19.bmp"
+
+2                       BITMAP                  "Res\\bmp2.bmp"
+
+20                      BITMAP                  "Res\\bmp20.bmp"
+
+21                      BITMAP                  "Res\\bmp21.bmp"
+
+22                      BITMAP                  "Res\\bmp22.bmp"
+
+23                      BITMAP                  "Res\\bmp23.bmp"
+
+24                      BITMAP                  "Res\\bmp24.bmp"
+
+25                      BITMAP                  "Res\\bmp25.bmp"
+
+26                      BITMAP                  "Res\\bmp26.bmp"
+
+27                      BITMAP                  "Res\\bmp27.bmp"
+
+28                      BITMAP                  "Res\\bmp28.bmp"
+
+29                      BITMAP                  "Res\\bmp29.bmp"
+
+3                       BITMAP                  "Res\\bmp3.bmp"
+
+30                      BITMAP                  "Res\\bmp30.bmp"
+
+31                      BITMAP                  "Res\\bmp31.bmp"
+
+32                      BITMAP                  "Res\\bmp32.bmp"
+
+33                      BITMAP                  "Res\\bmp33.bmp"
+
+34                      BITMAP                  "Res\\bmp34.bmp"
+
+35                      BITMAP                  "Res\\bmp35.bmp"
+
+36                      BITMAP                  "Res\\bmp36.bmp"
+
+37                      BITMAP                  "Res\\bmp37.bmp"
+
+38                      BITMAP                  "Res\\bmp38.bmp"
+
+39                      BITMAP                  "Res\\bmp39.bmp"
+
+4                       BITMAP                  "Res\\bmp4.bmp"
+
+40                      BITMAP                  "Res\\bmp40.bmp"
+
+41                      BITMAP                  "Res\\bmp41.bmp"
+
+42                      BITMAP                  "Res\\bmp42.bmp"
+
+43                      BITMAP                  "Res\\bmp43.bmp"
+
+44                      BITMAP                  "Res\\bmp44.bmp"
+
+45                      BITMAP                  "Res\\bmp45.bmp"
+
+46                      BITMAP                  "Res\\bmp46.bmp"
+
+47                      BITMAP                  "Res\\bmp47.bmp"
+
+48                      BITMAP                  "Res\\bmp48.bmp"
+
+49                      BITMAP                  "Res\\bmp49.bmp"
+
+5                       BITMAP                  "Res\\bmp5.bmp"
+
+50                      BITMAP                  "Res\\bmp50.bmp"
+
+51                      BITMAP                  "Res\\bmp51.bmp"
+
+52                      BITMAP                  "Res\\bmp52.bmp"
+
+53                      BITMAP                  "Res\\bmp53.bmp"
+
+54                      BITMAP                  "Res\\bmp54.bmp"
+
+55                      BITMAP                  "Res\\bmp55.bmp"
+
+56                      BITMAP                  "Res\\bmp56.bmp"
+
+57                      BITMAP                  "Res\\bmp57.bmp"
+
+58                      BITMAP                  "Res\\bmp58.bmp"
+
+59                      BITMAP                  "Res\\bmp59.bmp"
+
+6                       BITMAP                  "Res\\bmp6.bmp"
+
+60                      BITMAP                  "Res\\bmp60.bmp"
+
+61                      BITMAP                  "Res\\bmp61.bmp"
+
+62                      BITMAP                  "Res\\bmp62.bmp"
+
+63                      BITMAP                  "Res\\bmp63.bmp"
+
+64                      BITMAP                  "Res\\bmp64.bmp"
+
+65                      BITMAP                  "Res\\bmp65.bmp"
+
+67                      BITMAP                  "Res\\bmp67.bmp"
+
+68                      BITMAP                  "Res\\bmp68.bmp"
+
+7                       BITMAP                  "Res\\bmp7.bmp"
+
+8                       BITMAP                  "Res\\bmp8.bmp"
+
+9                       BITMAP                  "Res\\bmp9.bmp"
+
+69                      BITMAP                  "res\\bmp700.bmp"
+
+#endif    // Polish (Poland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
