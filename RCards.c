@@ -82,7 +82,6 @@ RCards_InitCards(HINSTANCE a_hInstance)
 	memset(s_arrBitmap, 0, sizeof(s_arrBitmap));
 	for (l_iPos = 1; l_iPos <= 52; l_iPos++)
 	{
-		long tetete = MAKEINTRESOURCE(l_arrDecode[l_iPos - 1]);
 		s_arrBitmap[l_iPos - 1] = LoadBitmap(s_hInstance, MAKEINTRESOURCE(l_arrDecode[l_iPos - 1]));
 		if (s_arrBitmap[l_iPos - 1] == NULL)
 		{
