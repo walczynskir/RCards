@@ -1,2 +1,5 @@
 del  "%CPP_PATH_DEV%\include\%1\*.h"
+del  "%CPP_PATH_DEV%\include\%1\*.rc"
 copy "%CPP_PATH_DEV%\src\%1\RCards.h" "%CPP_PATH_DEV%\include\\%1\"
+copy "%CPP_PATH_DEV%\src\%1\resource.h" "%CPP_PATH_DEV%\include\\%1\"
+copy "%CPP_PATH_DEV%\src\%1\RCards.rc" "%CPP_PATH_DEV%\include\\%1\"
