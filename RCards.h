@@ -41,6 +41,8 @@ RCARDS_API BOOL Cards_DrawCard(HDC a_hDC, int a_iCard,
 RCARDS_API BOOL Cards_DrawCover(HDC a_hDC, HBITMAP a_hBmpCover, int a_xDst,
 	int a_yDst,	int a_dxDst, int a_dyDst, int a_dx,	int a_dy);
 RCARDS_API HBITMAP	Cards_GetBitmap(UINT a_idBmp);
+
+RCARDS_API HINSTANCE RCards_GetInstance(void);
 #ifdef __cplusplus
 }
 #endif

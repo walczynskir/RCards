@@ -20,6 +20,7 @@ static const cc_iMaskBmp = 69;
 
 
 
+#ifdef RCARDS_DLL //DLL
 
 // ---------------------------------------------------------
 // Entry point, only for dynamic library. Only for remembering instance handle which will be used later. 
@@ -47,6 +48,22 @@ APIENTRY DllMain(
 }
 
 
+HINSTANCE RCards_GetInstance(void)
+{
+	ASSERT(s_hInstance != NULL);
+	return s_hInstance;
+}
+
+
+#else // STATIC LIBRARY
+HINSTANCE RCards_GetInstance(void)
+{
+	return GetModuleHandle(NULL);
+}
+
+#endif
+
+
 
 // ---------------------------------------------------------
 // Inicjacja modu³u kart
@@ -61,6 +78,7 @@ RCards_InitCards(HINSTANCE a_hInstance)
 	ASSERT(a_hInstance == NULL);
 #else
 	ASSERT(a_hInstance != NULL);
+	ASSERT(a_hInstance == RCards_GetInstance());
 	s_hInstance = a_hInstance;
 #endif
 	
