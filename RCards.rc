@@ -120,6 +120,11 @@ IDB_COVER_13            BITMAP                  "Res\\bmp65.bmp"
 8                       BITMAP                  "Res\\bmp8.bmp"
 9                       BITMAP                  "Res\\bmp9.bmp"
 69                      BITMAP                  "res\\bmp700.bmp"
+IDB_FELT_1              BITMAP                  "Res\\table_felt.bmp"
+IDB_FELT_2              BITMAP                  "Res\\table_felt_dark.bmp"
+IDB_FELT_3              BITMAP                  "Res\\table_felt_light.bmp"
+
+
 #endif    // Polish resources
 /////////////////////////////////////////////////////////////////////////////
 

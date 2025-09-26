@@ -392,7 +392,9 @@ copy %CPP_PATH_DEV%\src\$(ProjectName)\$(OutDir)$(ProjectName).dll %CPP_PATH_DEV
     <Image Include="Res\bmp8.bmp" />
     <Image Include="Res\bmp9.bmp" />
     <Image Include="Res\mask.bmp" />
-    <Image Include="Res\png\2_of_clubs.bmp" />
+    <Image Include="Res\table_felt.bmp" />
+    <Image Include="Res\table_felt_dark.bmp" />
+    <Image Include="Res\table_felt_light.bmp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />

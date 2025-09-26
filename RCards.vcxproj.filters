@@ -267,7 +267,13 @@
     <Image Include="Res\mask.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="Res\png\2_of_clubs.bmp">
+    <Image Include="Res\table_felt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Res\table_felt_dark.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Res\table_felt_light.bmp">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

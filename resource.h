@@ -29,6 +29,14 @@
 #define IDB_COVER_11					4011
 #define IDB_COVER_12					4012
 #define IDB_COVER_13					4013
+#define IDB_FELT_1						4014
+#define IDB_FELT_2						4015
+#define IDB_FELT_3						4016
 
 #define IDB_COVER_START					(IDB_COVER_1)
 #define IDB_COVER_END					(IDB_COVER_13)
+#define IDB_COVER_DEFAULT				(IDB_COVER_8)
+
+#define IDB_FELT_START					(IDB_FELT_1)
+#define IDB_FELT_END					(IDB_FELT_3)
+#define IDB_FELT_DEFAULT				(IDB_FELT_1)
