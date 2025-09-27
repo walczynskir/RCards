@@ -18,8 +18,6 @@
 #include <windows.h>
 #include <crtdbg.h>
 
-// TODO: reference additional headers your program requires here
-
 //{{AFX_INSERT_LOCATION}}
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
