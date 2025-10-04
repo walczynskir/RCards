@@ -18,6 +18,10 @@
 #include <windows.h>
 #include <crtdbg.h>
 
+// Gdiplus 1.1
+#define GDIPVER 0x0110
+
+
 //{{AFX_INSERT_LOCATION}}
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
